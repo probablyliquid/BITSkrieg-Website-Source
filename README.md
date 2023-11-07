@@ -5,4 +5,4 @@
 - Components are listed under 'src/components'
 - I've used Vite+React for this.
 - I've used 'react-scroll' module.
-- Build your files to the 'dist' folder and deploy them 
+- Build your files to a 'dist' folder (you'll have to build your react distributable first) and deploy it 
