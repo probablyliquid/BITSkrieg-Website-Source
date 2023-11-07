@@ -1,8 +1,8 @@
-# React + Vite
+# Codebase of the [BITSkrieg Website](https://github.com/probablyliquid/BITSkrieg-Website)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Find .jsx and .css files in 'src' folder
+- App.css contains the styling for all the components
+- Components are listed under 'src/components'
+- I've used Vite+React for this.
+- I've used 'react-scroll' module.
+- Build your files to the 'dist' folder and deploy them 
